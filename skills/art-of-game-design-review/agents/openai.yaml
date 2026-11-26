@@ -1,0 +1,4 @@
+interface:
+  display_name: "art-of-game-design-review（游戏设计透镜审视）"
+  short_description: "用《游戏设计艺术》116透镜与35章原则审视当前游戏，输出风险与行动清单"
+  default_prompt: "请使用 $art-of-game-design-review 结合当前游戏项目或设计方案，做一次游戏设计体检并给出 Top 3 风险与可落地改进建议。"
